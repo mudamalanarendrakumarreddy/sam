@@ -1,0 +1,55 @@
+#t1{
+    display: flex;
+    border: 1px solid;
+}
+#t1>#div1>a>img{
+    width: 200px;
+    height: 200px;
+}
+#t1>#div2{
+    margin-left: 50px;
+}
+#t2{
+    display: flex;
+    border: 1px solid;
+}
+#t2>#div1>a>img{
+    width: 200px;
+    height: 200px;
+}
+#t2>#div2{
+    margin-left: 50px;
+}
+#t3{
+    display: flex;
+    border: 1px solid;
+}
+#t3>#div1>a>img{
+    width: 200px;
+    height: 200px;
+}
+#t3>#div2{
+    margin-left: 50px;
+}
+#t4{
+    display: flex;
+    border: 1px solid;
+}
+#t4>#div1>a>img{
+    width: 200px;
+    height: 200px;
+}
+#t4>#div2{
+    margin-left: 50px;
+}
+#t5{
+    display: flex;
+    border: 1px solid;
+}
+#t5>#div1>a>img{
+    width: 200px;
+    height: 200px;
+}
+#t5>#div2{
+    margin-left: 50px;
+}

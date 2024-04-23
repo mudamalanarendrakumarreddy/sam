@@ -1,0 +1,9 @@
+#t1{
+    display: flex;
+    border: 2px solid;
+    padding: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}

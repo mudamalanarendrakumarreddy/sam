@@ -1,0 +1,48 @@
+@media (min-width:769px) and (max-width:1025px){
+    div>img{
+        width:100%;
+    }
+    div>p{
+        width: 400px;
+    }
+}
+h1{
+   margin-left: 200px; 
+}
+img{
+    width: 700px;
+    height: 500px;
+    margin-left: 50px;
+}
+p{
+    width: 50%;
+    margin-left: 50px;
+    position: relative;
+}
+.sri{
+    margin-left: 800px;
+    margin-top: -1000px;
+    height: 300px;
+    width: 250px;
+    background-color: #2c2f74;  
+}
+.sri>ul>li{
+    padding: 15px;
+    list-style: none;
+    transform: translateX(-35px);
+    width: 210px;
+}
+.img{
+    width: 600px;
+}
+.co-cur{
+    background-color: orange;
+}
+.sri>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.sri>ul>li>a:hover{
+    text-decoration: underline;
+    
+}

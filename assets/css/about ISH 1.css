@@ -1,0 +1,18 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: navy;
+    color: white;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: navy;
+    min-width: 160px;
+    padding: 12px 16px;
+    z-index: 1;
+    color: white;
+  }
+.dropdown:hover .dropdown-content {
+    display: block;
+}

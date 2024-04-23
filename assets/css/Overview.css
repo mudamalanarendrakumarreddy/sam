@@ -1,0 +1,55 @@
+/* tab */
+@media screen and (min-width:426px) and (max-width:768px){
+    div>video{
+        width:100px;
+    }
+    .sri{
+        margin-top: -50px;
+        margin-left: -100px;
+    }
+}
+.sri{
+    height:300px;
+    width: 250px;
+    margin-top: ;
+    background-color: #2c2f74; 
+    transform: translate(700px,-750px); 
+}
+.sri>ul>li{
+    padding: 15px;  
+    list-style: none;
+    transform: translateX(-35px);
+    width: 210px;
+}
+.video1{
+    width: 400px;
+    margin-left: 100px;
+}
+
+.co-cur{
+    background-color: orange;
+    
+    
+}
+.sri>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.sri>ul>li>a:hover{
+    text-decoration: underline;
+    
+}
+p{
+    margin-left: 100px;
+    width: 1000px;
+}
+h1{
+    margin-left: 100px;
+}
+/* laptop */
+@media screen and (min-width:769px) and (max-width:1025px){
+    div>video{
+        width:100px;
+    }
+
+}

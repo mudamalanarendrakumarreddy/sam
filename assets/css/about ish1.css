@@ -1,0 +1,100 @@
+.image1>img{
+    width: 100%;
+}
+.mnkr{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    background-color: navy;
+    width: 150px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.box2{
+    background-color: navy;
+    width: 150px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.box3{
+    background-color: navy;
+    width: 150px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.box4{
+    background-color: navy;
+    width: 150px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.box5{
+    background-color: navy;
+    width: 150px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.mission{
+    display: flex;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.nn{
+    background-color: navy;
+    width: 500px;
+}
+.naren1{
+    display: flex;
+}
+.image2{
+    width: 500px;
+    height: 600px;
+}
+.image3{
+    width: 60px;
+    height: 40px;
+    margin-left: 100px;  
+}
+.image4{
+    width: 60px;
+    height: 40px;  
+}
+.red{
+    display: flex;
+}
+.image5{
+    width: 60px;
+    height: 40px;  
+}
+.image6{
+    width: 60px;
+    height: 40px;  
+}
+.red{
+    display: flex;
+}
+.image5{
+    width: 60px;
+    height: 40px;  
+}
+.image6{
+    width: 60px;
+    height: 40px;  
+}
